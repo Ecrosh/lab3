@@ -37,6 +37,11 @@ body {
      color: #6e6e6e;
 }
 
+/* added class */
+.jumbotron p.active {
+     color: #1f6ddd;
+}
+
 .project a {
      text-align: center;
 }
